@@ -1,0 +1,8 @@
+wheel
+matplotlib
+pandas
+jupyterlab
+sqlalchemy
+seaborn
+json
+requests
